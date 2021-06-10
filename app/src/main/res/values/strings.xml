@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDrawer_HW38_Sharpilova</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">HOME</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="settings">SETTINGS</string>
+</resources>
